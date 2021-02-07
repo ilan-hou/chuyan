@@ -1,0 +1,6 @@
+1.MainActivity里面放个Fragment;
+2.切换 记录/统计结果 按钮;
+3. 记录的Fragment还有里面的按钮
+4.两页的实际的ViewPager,Adapter,
+5.记录Fragment里面的ViewPager;
+6.View显示的实际日记内容界面写一下,Recyclerview
